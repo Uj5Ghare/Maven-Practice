@@ -27,12 +27,12 @@ This is a simple Maven Project which build & compress code into ".jar" file
    ```
    
 3. Build the application 
-  ```
-  mvn clean install 
-  ```
+   ```
+   mvn clean install 
+   ```
 
 4. Run the app
-  ```
-  java -jar target/my-todo-app-1.0-SNAPSHOT.jar 
-  ```
+   ```
+   java -jar target/my-todo-app-1.0-SNAPSHOT.jar 
+   ```
 
