@@ -18,7 +18,7 @@ This is a simple Maven Project which build & compress code into ".jar" file
 ## Installation
 1. Clone the repository
    ```
-git clone https://github.com/Ujwal-s-Projects/Maven-Practice
+   git clone https://github.com/Ujwal-s-Projects/Maven-Practice
    ```
 
 2. Enter into main directory
