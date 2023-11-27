@@ -34,7 +34,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>com.example.ToDoListApp</mainClass>
+                            <mainClass>ToDoListApp</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
